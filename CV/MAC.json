@@ -1,0 +1,791 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Daniel J.",
+      "surnames": "Saldaña",
+      "title": "SRE / DevOps",
+      "description": "Soy DevOps/SRE🔥, con un background de SysAdmin y especializado en provedores Cloud como AWS, Azure y GCP. Dispongo de un fuerte dominio de Arquitectura Cloud y Diseño de modelos de CI/CD\nVivo en Almería, España🌍 tengo 29 años",
+      "avatar": {
+        "alt": "1618158806543.jpeg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/4fbe000f-5a31-4890-88f6-8ccac4952180_1618158806543.jpeg"
+      },
+      "location": {
+        "notes": "Almería"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/daniel-s-p"
+      },
+      {
+        "type": "other",
+        "URL": "https://xn--danieljsaldaa-tkb.com"
+      }
+    ],
+    "recommendations": [
+      {
+        "title": " Daniel Saldaña, exalumno del EU en DevOps de UNIR: \"Lo que se veía antes como futuro ya es el presente\"",
+        "type": "reading",
+        "URL": "https://www.unir.net/actualidad/alumnos-unir/daniel-saldana-exalumno-del-eu-en-devops-de-unir-lo-que-se-veia-antes-como-futuro-ya-es-el-presente/?utm_source=linkedin&utm_medium=post&utm_campaign=rrss_liked_org",
+        "authors": [
+          {
+            "name": "Unir",
+            "surnames": "Unir",
+            "title": "Author"
+          }
+        ]
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Tecdata Engineering",
+          "image": {
+            "alt": "1520446132407.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/db5b31a5-7d69-44d3-8d20-2724cf140cef_1520446132407.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Site Reliability Engineering",
+            "startDate": "2022-04-01",
+            "challenges": [
+              {
+                "description": "Automatización de tareas operativas, creación de pipeline 🚀, diseño level design para garantizar la disponibilidad de las aplicaciones 🏗️, explotación de métricas e identificar, diagnosticar y resolver los problemas de aplicaciones 🧪."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Ansible",
+                "type": "technology"
+              },
+              {
+                "name": "Azure",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "ELK",
+                "type": "technology"
+              },
+              {
+                "name": "Elasticsearch",
+                "type": "technology"
+              },
+              {
+                "name": "Grafana",
+                "type": "technology"
+              },
+              {
+                "name": "Helm",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JBoss",
+                "type": "technology"
+              },
+              {
+                "name": "Kibana",
+                "type": "technology"
+              },
+              {
+                "name": "Maven",
+                "type": "technology"
+              },
+              {
+                "name": "OpenShift",
+                "type": "technology"
+              },
+              {
+                "name": "Prometheus",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Plexus Tech",
+          "image": {
+            "alt": "1656917705493.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/5266f798-ac3b-40d6-92c4-ef3ed32b2cf8_1656917705493.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "DevOps Engineer",
+            "startDate": "2020-08-01",
+            "finishDate": "2022-04-01",
+            "challenges": [
+              {
+                "description": "Desarrollo automatizaciones en la solución CI/CD interna 🔧. Cooperación con los equipos de Arquitectura en la fase de design thinking así como en las distintas fases de desarrollo de evolutivo 🗒️. Miembro del equipo de estrategia del Dominio de Ingeniera para definir nuevos procedimientos y modelos de trabajo ✍️."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Confluence",
+                "type": "technology"
+              },
+              {
+                "name": "Control-M",
+                "type": "technology"
+              },
+              {
+                "name": "ELK",
+                "type": "technology"
+              },
+              {
+                "name": "Elasticsearch",
+                "type": "technology"
+              },
+              {
+                "name": "GitLab",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "Grafana",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JBoss",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "Kafka",
+                "type": "technology"
+              },
+              {
+                "name": "Kibana",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "OpenShift",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Viewnext",
+          "image": {
+            "alt": "viewnext.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/7f7188f2-1bcd-42cd-bfc9-1d12a74396d1_viewnext.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "SysAdmin Linux",
+            "startDate": "2020-04-01",
+            "finishDate": "2020-08-01",
+            "challenges": [
+              {
+                "description": "Resolución de incidencias 🔴, automatización de procedimientos, creación y configuración de máquinas virtuales 🖥️, gestión de todo la infraestructura interna de la organización 🧮."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Apache",
+                "type": "technology"
+              },
+              {
+                "name": "Apache Tomcat",
+                "type": "technology"
+              },
+              {
+                "name": "Control-M",
+                "type": "technology"
+              },
+              {
+                "name": "Hyper-v",
+                "type": "technology"
+              },
+              {
+                "name": "Netbackup",
+                "type": "technology"
+              },
+              {
+                "name": "RedHat",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Profesional Hosting",
+          "image": {
+            "alt": "120820_2136_Quierocontr1.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/774ec905-e392-441b-b56b-ca30f1c73d18_120820_2136_quieroco.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "SysAdmin Linux/Windows",
+            "startDate": "2016-07-01",
+            "finishDate": "2019-12-01",
+            "challenges": [
+              {
+                "description": "Intervenciones en máquinas físicas y virtuales y entornos de servidores compartidos ☁️, gestión en clusters de correo ✉️, implementación de reglas de seguridad 🔐."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Apache",
+                "type": "technology"
+              },
+              {
+                "name": "Bash",
+                "type": "technology"
+              },
+              {
+                "name": "Centos",
+                "type": "technology"
+              },
+              {
+                "name": "Debian",
+                "type": "technology"
+              },
+              {
+                "name": "Hyper-v",
+                "type": "technology"
+              },
+              {
+                "name": "IIS",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "Nginx",
+                "type": "technology"
+              },
+              {
+                "name": "Proxmox",
+                "type": "technology"
+              },
+              {
+                "name": "Ubuntu",
+                "type": "technology"
+              },
+              {
+                "name": "Windows",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Terraform",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ansible",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "OpenShift",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitLab",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "ELK",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Prometheus",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "AZ-400: Designing and Implementing Microsoft DevOps Solutions",
+        "startDate": "2022-07-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Passing exam AZ-400: Designing and Implementing Microsoft DevOps Solutions validates the skills and knowledge to combine people, processes, and technologies to deliver valuable products and services that meet end-user needs and business objectives. Candidates optimize practices, improve communications, and create automation to streamline delivery. They design and implement strategies for application code and infrastructure for continuous integration, testing, delivery, monitoring and feedback.",
+          "URL": "https://www.credly.com/badges/93d936cb-09f2-4611-ab6a-545ab699faef",
+          "image": {
+            "alt": "exam-az400-600x600.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/3a5f19d0-99c5-4195-bf5d-3652ff8e3f2c_exam-az400-600x600.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "AWS Learning: Object Storage",
+        "startDate": "2022-06-01",
+        "institution": {
+          "name": "Amazon Web Services Training and Certification",
+          "description": "Earners of this badge have developed the technical skills and knowledge of AWS storage services with a focus on Amazon Simple Storage Service (S3).",
+          "URL": "https://www.credly.com/badges/b634d8af-48ec-4c0c-85e3-0fb6b48f46ba",
+          "image": {
+            "alt": "image.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/8afe7886-df6a-4fde-8d55-a274f04d15e9_image.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Microsoft Certified: Azure AI Fundamentals",
+        "startDate": "2022-04-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Earners of the Azure AI Fundamentals certification have demonstrated foundational knowledge of machine learning (ML) and artificial intelligence (AI) concepts and related Microsoft Azure services.",
+          "URL": "https://www.credly.com/badges/b0b84311-ec76-41e6-8482-0de53cbdc4d6?source=linked_in_profile",
+          "image": {
+            "alt": "azure-ai-fundamentals-600x600.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/05/aaec1006-2096-4be5-a113-dcebd776b2df_azure-ai-fundamental.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Microsoft Certified: Power Platform Fundamentals",
+        "startDate": "2022-04-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Earners of the Power Platform Fundamentals certification are users who aspire to improve productivity by automating business processes, analyzing data to produce business insights, and acting more effectively by creating simple app experiences.",
+          "URL": "https://www.credly.com/badges/e8a1e70c-34a8-435b-b9c4-1a49de62fa40",
+          "image": {
+            "alt": "CERT-Fundamentals-Power-Platform.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/f4db5192-7464-4425-91e3-bc3f22480b05_cert-fundamentals-po.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Microsoft Certified: Azure Data Fundamentals",
+        "startDate": "2022-03-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Earners of the Azure Data Fundamentals certification have demonstrated foundational knowledge of core data concepts and how they are implemented using Microsoft Azure data services.",
+          "URL": "https://www.credly.com/badges/7382e0e7-1bcb-4995-8031-7b5eb5dce1b3",
+          "image": {
+            "alt": "azure-data-fundamentals-600x600.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/32024a63-cef7-4eae-b6b1-512c9c73e4ad_azure-data-fundament.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Microsoft Certified: Security, Compliance, and Identity Fundamentals",
+        "startDate": "2022-01-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Earners of the Security, Compliance, and Identity Fundamentals demonstrate a functional understanding of security, compliance, and identity (SCI) across cloud-based and related Microsoft services.",
+          "URL": "https://www.credly.com/badges/659ab939-293b-440f-9b1b-69520a68a88f",
+          "image": {
+            "alt": "security-compliance-and-identity-fundamentals-600x600.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/dd4d4d9b-7b69-4e2e-b574-32a2ca7a8af8_security-compliance-.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Confluent Fundamentals Accreditation",
+        "startDate": "2021-10-01",
+        "institution": {
+          "name": "Confluent",
+          "URL": "https://www.credential.net/b92d85bf-b725-4a03-9b98-c7a9147c0b18",
+          "image": {
+            "alt": "16046926127886111900067104961811.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/1d00cfe8-57d8-4845-b38e-7dc7e1be506a_16046926127886111900.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Kafka",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Microsoft Certified: Azure Fundamentals",
+        "startDate": "2021-09-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Earners of the Azure Fundamentals certification have demonstrated foundational level knowledge of cloud services and how those services are provided with Microsoft Azure.",
+          "URL": "https://www.credly.com/badges/93cbe9df-0c1d-40e2-93a8-25edfc31242d",
+          "image": {
+            "alt": "image.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/a5270ebe-7c8f-4cbb-9690-2687d49c89fc_image.png"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Microsoft Certified: Azure Administrator Associate",
+        "startDate": "2022-08-01",
+        "finishDate": "2023-08-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Earning Azure Administrator Associate certification validates the skills and knowledge to implement, manage, and monitor an organization’s Microsoft Azure environment. Candidates have a deep understanding of each implementing, managing, and monitoring identity, governance, storage, compute, and virtual networks in a cloud environment, plus provision, size, monitor, and adjust resources, when needed.",
+          "URL": "https://www.credly.com/badges/934f07ee-6aaa-47dd-aaa1-95522a7f11ec",
+          "image": {
+            "alt": "azure-administrator-associate-600x600.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/d7f68252-057e-4f49-99a6-daf7dcce1975_azure-administrator-.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Microsoft Certified: DevOps Engineer Expert",
+        "startDate": "2022-08-01",
+        "finishDate": "2023-08-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Earning the DevOps Engineer Expert certification demonstrates the ability to combine people, process, and technologies to continuously deliver valuable products and services that meet end user needs and business objectives. DevOps professionals streamline delivery by optimizing practices, improving communications and collaboration, and creating automation.",
+          "URL": "https://www.credly.com/badges/53cafd70-78b5-47f0-ba79-cda141af4502",
+          "image": {
+            "alt": "CERT-Expert-DevOps-Engineer-600x600.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/e089c420-77c0-48ec-a960-07a67c065b65_cert-expert-devops-e.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Oracle Cloud Infrastructure Foundations 2021 Associate",
+        "startDate": "2022-06-01",
+        "finishDate": "2023-12-01",
+        "institution": {
+          "name": "Oracle",
+          "description": "The Oracle Cloud Infrastructure (OCI) Foundations certification is intended for individuals looking to demonstrate fundamental knowledge of public cloud services provided by Oracle Cloud Infrastructure. This certification is targeted towards candidates with non-technical backgrounds such as those involved in selling or procuring cloud solutions, as well as those with a technical background who want to validate their foundational-level knowledge around core OCI services. This exam does not require any hands-on technical experience and is not a prerequisite for taking any other OCI certifications.",
+          "URL": "https://catalog-education.oracle.com/pls/certview/sharebadge?id=82F0E94E34541E5828584308E88CE4EF27C4EAC6A8AFB80F4A8CA26FC5394F22",
+          "image": {
+            "alt": "102_Oracle_Cloud_Infrastructure_Foundations_Associate.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/8026334b-1a92-471b-a303-e6a19200ce72_102_oracle_cloud_inf.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Oracle",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Associate Cloud Engineer",
+        "startDate": "2021-10-01",
+        "finishDate": "2023-10-01",
+        "institution": {
+          "name": " Google Cloud",
+          "description": "Un Associate Cloud Engineer se encarga de implementar aplicaciones, supervisar operaciones y administrar soluciones empresariales. También sabe cómo usar Google Cloud Console y la interfaz de línea de comandos para realizar tareas comunes en la plataforma a fin de mantener una o más soluciones implementadas que aprovechen los servicios administrados por Google o autoadministrados que se encuentran en Google Cloud. ",
+          "URL": "https://www.credential.net/7ab2a600-a1da-4359-9d45-a900024233c7",
+          "image": {
+            "alt": "16590187933301617801540872729153.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/868d4d52-0064-4fcf-8db2-b9477a93021c_16590187933301617801.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Google Cloud",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "AWS Certified Solutions Architect – Associate",
+        "startDate": "2021-09-01",
+        "finishDate": "2024-09-01",
+        "institution": {
+          "name": "Amazon Web Services Training and Certification",
+          "description": "Earners of this certification have a comprehensive understanding of AWS services and technologies. They demonstrated the ability to build secure and robust solutions using architectural design principles based on customer requirements. Badge owners are able to strategically design well-architected distributed systems that are scalable, resilient, efficient, and fault-tolerant.",
+          "URL": "https://www.credly.com/badges/cb1af97f-cab2-4504-8f1f-b8abb4c6ca0e",
+          "image": {
+            "alt": "image-2.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/5ca26048-7b42-4f48-90fd-ca6ab2acf7d0_image-2.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "AWS Certified Cloud Practitioner",
+        "startDate": "2021-08-01",
+        "finishDate": "2024-08-01",
+        "institution": {
+          "name": "Amazon Web Services Training and Certification",
+          "description": "Earners of this certification have a fundamental understanding of IT services and their uses in the AWS Cloud. They demonstrated cloud fluency and foundational AWS knowledge. Badge owners are able to identify essential AWS services necessary to set up AWS-focused projects.",
+          "URL": "https://www.credly.com/badges/4070db58-f1fd-4a48-a0b4-ef4aa5e36e21",
+          "image": {
+            "alt": "image-3.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/0ac0d400-537d-47af-8241-f76276f224e5_image-3.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Dynatrace Partner Foundation Certification",
+        "startDate": "2021-08-01",
+        "finishDate": "2023-08-01",
+        "institution": {
+          "name": "Dynatrace",
+          "description": "Dynatrace Partner Foundation Certification",
+          "URL": "https://www.credly.com/badges/18fbdec5-b709-4a5d-8fcd-e107fe39d239",
+          "image": {
+            "alt": "partner_foundation_badge.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/96c1debe-bd07-4735-abb9-4be36111e39d_partner_foundation_b.png"
+          }
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Experto Universitario en Cloud Computing. Arquitecturas y Soluciones (AWS y Azure)",
+        "startDate": "2021-04-01",
+        "finishDate": "2021-07-01",
+        "institution": {
+          "name": "La unir"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Experto Universitario en Devops & Cloud",
+        "startDate": "2020-10-01",
+        "finishDate": "2021-03-01",
+        "institution": {
+          "name": "La unir"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://linkedin.com/in/daniel-s-p"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
+          "name": "Ansible",
+          "type": "technology"
+        },
+        {
+          "name": "Azure",
+          "type": "technology"
+        },
+        {
+          "name": "GitLab",
+          "type": "technology"
+        },
+        {
+          "name": "Github",
+          "type": "technology"
+        },
+        {
+          "name": "Google Cloud",
+          "type": "technology"
+        },
+        {
+          "name": "Kubernetes",
+          "type": "technology"
+        },
+        {
+          "name": "OpenShift",
+          "type": "technology"
+        },
+        {
+          "name": "Terraform",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "IIS",
+          "type": "technology"
+        },
+        {
+          "name": "Jenkins",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
