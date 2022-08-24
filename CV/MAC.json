@@ -713,7 +713,11 @@
         "startDate": "2021-04-01",
         "finishDate": "2021-07-01",
         "institution": {
-          "name": "La unir"
+          "name": "La Unir",
+          "image": {
+            "alt": "unir_logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/24/1ed9ccee-05c6-4f68-ad21-889407508a04_unir_logo.png"
+          }
         }
       },
       {
