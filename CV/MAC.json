@@ -42,6 +42,19 @@
             "title": "Author"
           }
         ]
+      },
+      {
+        "title": "Daniel J. Saldaña",
+        "type": "other",
+        "URL": "https://danieljsaldana.dev/",
+        "authors": [
+          {
+            "name": "Daniel J.",
+            "surnames": "Saldaña",
+            "title": "Author"
+          }
+        ],
+        "summary": "Mi portfolio personal"
       }
     ]
   },
