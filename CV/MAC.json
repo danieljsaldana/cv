@@ -27,8 +27,16 @@
         "URL": "http://danieljsaldana.dev/"
       },
       {
+        "type": "github",
+        "URL": "https://github.com/danieljesussp"
+      },
+      {
         "type": "linkedin",
         "URL": "https://linkedin.com/in/daniel-s-p"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/danieljsaldana"
       }
     ],
     "recommendations": [
