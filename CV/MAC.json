@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,17 +17,18 @@
       "location": {
         "country": "España",
         "region": "Andalucía",
-        "municipality": "Almería"
+        "municipality": "Almería",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
       {
-        "type": "linkedin",
-        "URL": "https://linkedin.com/in/daniel-s-p"
+        "type": "other",
+        "URL": "http://danieljsaldana.dev/"
       },
       {
-        "type": "other",
-        "URL": "https://xn--danieljsaldaa-tkb.com"
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/daniel-s-p"
       }
     ],
     "recommendations": [
@@ -41,7 +42,8 @@
             "surnames": "Unir",
             "title": "Author"
           }
-        ]
+        ],
+        "summary": ""
       },
       {
         "title": "Daniel J. Saldaña",
@@ -408,7 +410,8 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
@@ -706,6 +709,7 @@
         "startDate": "2021-10-01",
         "institution": {
           "name": "Confluent",
+          "description": "",
           "URL": "https://www.credential.net/b92d85bf-b725-4a03-9b98-c7a9147c0b18",
           "image": {
             "alt": "16046926127886111900067104961811.png",
@@ -934,6 +938,7 @@
         "finishDate": "2021-07-01",
         "institution": {
           "name": "La Unir",
+          "description": "",
           "image": {
             "alt": "unir-logo-v.jpg",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/24/2d63058e-9fc2-49d2-b206-e93cb2beca97_unir-logo-v.jpg"
@@ -948,6 +953,7 @@
         "finishDate": "2021-03-01",
         "institution": {
           "name": "La Unir",
+          "description": "",
           "image": {
             "alt": "unir-logo-v.jpg",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/24/2763c842-b7fd-4607-8146-aa4ed1a12632_unir-logo-v.jpg"
@@ -1017,6 +1023,7 @@
       "preferredRoles": [
         "DevOps & Infrastructure & SRE"
       ]
-    }
+    },
+    "status": "openToOffers"
   }
 }
