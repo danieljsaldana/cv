@@ -669,6 +669,28 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Microsoft Certified: Azure Security Engineer Associate",
+        "startDate": "2023-02-01",
+        "finishDate": "2024-02-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Earning Azure Security Engineer Associate certification validates the skills and knowledge to implement security controls and threat protection, manage identity and access, and protect data, applications, and networks in cloud and hybrid environments as part of end-to-end infrastructure.\n",
+          "URL": "https://www.credly.com/badges/deb042a6-4157-4b21-a8a2-4e8d70e1e788",
+          "image": {
+            "alt": "azure-security-engineer-associate600x600.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/06/f686965b-44a6-4c3f-9dec-bf186f7b756a_azure-security-engin.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": " Microsoft Certified: Azure Solutions Architect Expert",
         "startDate": "2022-12-01",
         "finishDate": "2023-12-01",
