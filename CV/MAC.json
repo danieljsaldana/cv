@@ -15,7 +15,9 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/4fbe000f-5a31-4890-88f6-8ccac4952180_1618158806543.jpeg"
       },
       "location": {
-        "notes": "Almería"
+        "country": "España",
+        "region": "Andalucía",
+        "municipality": "Almería"
       }
     },
     "relevantLinks": [
@@ -45,6 +47,60 @@
   },
   "experience": {
     "jobs": [
+      {
+        "organization": {
+          "name": "Softtek",
+          "image": {
+            "alt": "Softtek.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/06/be8e6179-7b58-4290-8182-374200afbdbc_softtek.jpg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Arquitect",
+            "startDate": "2022-10-01",
+            "challenges": [
+              {
+                "description": "Toma decisiones de diseño de alto nivel y dicta estándares técnicos, incluyendo estándares de codificación de software, herramientas y plataformas. Dirijo el diseño y desarrollo de la arquitectura tecnológica de un sistema, aplicación o plataforma. Para ello, me encargo de seleccionar el software adecuado para cada función, vigilar la implementación y coordinar la resolución de los problemas técnicos que puedan surgir, planificando técnicamente cada paso a seguir en la construcción de esa arquitectura."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "AngularJS",
+                "type": "technology"
+              },
+              {
+                "name": "Azure",
+                "type": "technology"
+              },
+              {
+                "name": "Elasticsearch",
+                "type": "technology"
+              },
+              {
+                "name": "GitLab",
+                "type": "technology"
+              },
+              {
+                "name": "Grafana",
+                "type": "technology"
+              },
+              {
+                "name": "OpenShift",
+                "type": "technology"
+              },
+              {
+                "name": "Quarkus",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
       {
         "organization": {
           "name": "Tecdata Engineering",
@@ -793,6 +849,9 @@
           "name": "Jenkins",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "DevOps & Infrastructure & SRE"
       ]
     }
   }
