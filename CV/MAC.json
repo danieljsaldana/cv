@@ -648,6 +648,28 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": " Microsoft Certified: Azure Solutions Architect Expert",
+        "startDate": "2022-12-01",
+        "finishDate": "2023-12-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Earning the Azure Solutions Architect Expert certification demonstrates subject matter expertise in designing cloud and hybrid solutions that run on Microsoft Azure, including compute, network, storage, monitoring, and security. Candidates have advanced experience and knowledge across IT operations, including networking, virtualization, identity, security, business continuity, disaster recovery, data platforms, and governance.",
+          "URL": "https://www.credly.com/badges/f099d068-4eb9-46c6-ac86-1b11b063505a",
+          "image": {
+            "alt": "azure-solutions-architect-expert-600x600.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/06/a8a574d5-a7c2-465f-9f34-28ec8d81faaa_azure-solutions-arch.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "Microsoft Certified: Azure Administrator Associate",
         "startDate": "2022-08-01",
         "finishDate": "2023-08-01",
