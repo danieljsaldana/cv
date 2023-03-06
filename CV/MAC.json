@@ -508,6 +508,27 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "AZ-305: Designing Microsoft Azure Infrastructure Solutions",
+        "startDate": "2022-12-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Passing Exam AZ-305: Designing Microsoft Azure Infrastructure Solutions validates the skills and advanced experience and knowledge of IT operations, including networking, virtualization, identity, security, business continuity, disaster recovery, data platforms, and governance. Candidates have experience in Azure administration, Azure development, and DevOps processes.",
+          "URL": "https://www.credly.com/badges/8a3ccdbc-3939-4049-87c3-7416dfd32ef2",
+          "image": {
+            "alt": "image.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/06/5cca948a-f5dc-4997-8db6-d50637de736c_image.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "AZ-400: Designing and Implementing Microsoft DevOps Solutions",
         "startDate": "2022-07-01",
         "institution": {
