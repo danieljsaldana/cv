@@ -113,6 +113,7 @@
           {
             "name": "Site Reliability Engineering",
             "startDate": "2022-04-01",
+            "finishDate": "2022-10-01",
             "challenges": [
               {
                 "description": "Automatización de tareas operativas, creación de pipeline 🚀, diseño level design para garantizar la disponibilidad de las aplicaciones 🏗️, explotación de métricas e identificar, diagnosticar y resolver los problemas de aplicaciones 🧪."
