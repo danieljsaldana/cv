@@ -457,6 +457,21 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Microsoft Certified: Dynamics 365 Fundamentals (CRM)",
+        "startDate": "2023-03-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Earners of Dynamics 365 Fundamentals (CRM) demonstrate relevant work experience in an Information Technology (IT) environment. Candidates have a fundamental understanding of the customer engagement capabilities of Dynamics 365.\n",
+          "URL": "https://www.credly.com/badges/44216d31-d4cc-404a-b6bc-e879553ff0dc",
+          "image": {
+            "alt": "dynamics365-fundamentals-crm-600x600.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/06/316eaa0e-33b0-4800-8ba4-81ac02592021_dynamics365-fundamen.png"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "AZ-400: Designing and Implementing Microsoft DevOps Solutions",
         "startDate": "2022-07-01",
         "institution": {
