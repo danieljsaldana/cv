@@ -472,6 +472,21 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Microsoft 365 Certified: Fundamentals",
+        "startDate": "2023-02-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Earning the Microsoft 365 Fundamentals certification demonstrates an understanding of the options available in Microsoft 365 and the benefits of adopting cloud services, the Software as a Service (SaaS) cloud model, and implementing Microsoft 365 cloud service.",
+          "URL": "https://www.credly.com/badges/9ad170a6-57c0-4b66-97f9-add77a857ac4",
+          "image": {
+            "alt": "s.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/06/99f936a0-7889-451c-97ad-88bc3d3f364b_s.png"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "AZ-400: Designing and Implementing Microsoft DevOps Solutions",
         "startDate": "2022-07-01",
         "institution": {
