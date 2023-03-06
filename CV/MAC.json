@@ -487,6 +487,27 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Microsoft Certified: Dynamics 365 Fundamentals (ERP)",
+        "startDate": "2023-02-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Earners of Dynamics 365 Fundamentals (ERP) demonstrate relevant work experience and exposure to the enterprise resource planning (ERP) capabilities of Dynamics 365. Candidates have a fundamental understanding of how finance and operations apps fit within the overall Microsoft ecosystem.",
+          "URL": "https://www.credly.com/badges/224e404f-e575-457b-9b61-5be010938bd0",
+          "image": {
+            "alt": "dynamics365-fundamentals-erp-600x600.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/06/dc419345-182d-4a30-989b-ada01de22b16_dynamics365-fundamen.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "AZ-400: Designing and Implementing Microsoft DevOps Solutions",
         "startDate": "2022-07-01",
         "institution": {
