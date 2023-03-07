@@ -399,36 +399,6 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Kubernetes",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "OpenShift",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Azure",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "AWS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Google Cloud",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Prometheus",
           "type": "technology"
         }
@@ -447,13 +417,61 @@
       },
       {
         "skill": {
-          "name": "GitLab",
+          "name": "Jenkins",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "OpenShift",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github Actions",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Azure",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "Ansible",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitLab",
           "type": "technology"
         }
       },
