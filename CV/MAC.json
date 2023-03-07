@@ -582,6 +582,27 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "AWS Cloud Quest: Cloud Practitioner",
+        "startDate": "2023-02-01",
+        "institution": {
+          "name": "AWS",
+          "description": "Earners of this badge have demonstrated basic solution building knowledge using AWS services and have a fundamental understanding of AWS Cloud concepts. Badge earners have acquired hands-on experience with compute, networking, database and security services.",
+          "URL": "https://www.credly.com/badges/dc7dfe47-5ce1-47fc-b22d-2891a5c3b3d9",
+          "image": {
+            "alt": "image.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/07/d2158fcd-1f3d-483b-984f-2e27773fb4fc_image.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "AZ-305: Designing Microsoft Azure Infrastructure Solutions",
         "startDate": "2022-12-01",
         "institution": {
