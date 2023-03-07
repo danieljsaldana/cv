@@ -399,43 +399,7 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Kubernetes",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "AWS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Docker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "ELK",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Maven",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "OpenShift",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Google Cloud",
           "type": "technology"
         }
       },
@@ -447,25 +411,31 @@
       },
       {
         "skill": {
-          "name": "Ubuntu",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Prometheus",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Ansible",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Github Actions",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Helm",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bamboo",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "OpenShift",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ubuntu",
           "type": "technology"
         }
       },
@@ -477,7 +447,7 @@
       },
       {
         "skill": {
-          "name": "Gitflow",
+          "name": "Ansible",
           "type": "technology"
         }
       },
@@ -489,13 +459,61 @@
       },
       {
         "skill": {
+          "name": "ELK",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Prometheus",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Gitflow",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Terraform",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "GitLab",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Helm",
+          "name": "YAML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Maven",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
           "type": "technology"
         }
       },
@@ -508,18 +526,6 @@
       {
         "skill": {
           "name": "Azure",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Terraform",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "YAML",
           "type": "technology"
         }
       }
