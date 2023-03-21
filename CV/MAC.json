@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "España",
         "region": "Andalucía",
-        "municipality": "Almería",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Almería"
       }
     },
     "relevantLinks": [
@@ -50,8 +49,7 @@
             "surnames": "Unir",
             "title": "Author"
           }
-        ],
-        "summary": ""
+        ]
       }
     ]
   },
@@ -392,8 +390,7 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -778,7 +775,6 @@
         "startDate": "2021-10-01",
         "institution": {
           "name": "Confluent",
-          "description": "",
           "URL": "https://www.credential.net/b92d85bf-b725-4a03-9b98-c7a9147c0b18",
           "image": {
             "alt": "16046926127886111900067104961811.png",
@@ -806,6 +802,28 @@
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/a5270ebe-7c8f-4cbb-9690-2687d49c89fc_image.png"
           }
         }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Microsoft Certified: Information Protection Administrator Associate",
+        "startDate": "2023-03-01",
+        "finishDate": "2024-03-01",
+        "institution": {
+          "name": "Azure",
+          "description": "Earning the Information Protection Administrator Associate certification validates the skills and knowledge to plan and implement controls that meet organizational compliance needs. Candidates are responsible for translating requirements and compliance controls into technical implementation. They are responsible for creating policies and rules for content classification, data loss prevention, governance, and protection.",
+          "URL": "https://www.credly.com/badges/0d84a1b7-e11b-4378-a7c3-1d4cf777a21b",
+          "image": {
+            "alt": "sc-400.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/21/74233e76-e5d9-4891-ba0f-54087ae0366a_sc-400.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          }
+        ]
       },
       {
         "studyType": "certification",
@@ -1007,7 +1025,6 @@
         "finishDate": "2021-07-01",
         "institution": {
           "name": "La Unir",
-          "description": "",
           "image": {
             "alt": "unir-logo-v.jpg",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/24/2d63058e-9fc2-49d2-b206-e93cb2beca97_unir-logo-v.jpg"
@@ -1022,7 +1039,6 @@
         "finishDate": "2021-03-01",
         "institution": {
           "name": "La Unir",
-          "description": "",
           "image": {
             "alt": "unir-logo-v.jpg",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/24/2763c842-b7fd-4607-8146-aa4ed1a12632_unir-logo-v.jpg"
@@ -1095,7 +1111,6 @@
         "Tech Lead",
         "VP of Engineering"
       ]
-    },
-    "status": "openToOffers"
+    }
   }
 }
