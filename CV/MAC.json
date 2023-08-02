@@ -11,34 +11,16 @@
       "title": "Software  Arquitect",
       "description": "Soy un Software Arquitect con más de 7 años de experiencia en el sector tecnológico, donde he desarrollado mis habilidades en roles como DevOps, SRE y SysAdmin. \n\nMi pasión por la tecnología me llevó a especializarme en la nube, obteniendo 18 certificaciones en Azure, 2 en AWS y 1 en Google Cloud, lo que me permite ofrecer soluciones innovadoras y de calidad a mis clientes. Además, estoy siempre buscando aprender y estar al día en las últimas tendencias tecnológicas para poder aportar valor en cada proyecto.\n\nConsidero que la combinación de experiencia y conocimiento me ha permitido convertirme en un profesional exitoso en mi área.",
       "avatar": {
-        "alt": "1618158806543.jpeg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/4fbe000f-5a31-4890-88f6-8ccac4952180_1618158806543.jpeg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/4fbe000f-5a31-4890-88f6-8ccac4952180_1618158806543.jpeg",
+        "alt": "1618158806543.jpeg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJwfLM7ACeeg0RXki8jh-gnY0)",
         "country": "España",
         "region": "Andalucía",
-        "municipality": "Almería",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Almería"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "other",
-        "URL": "http://danieljsaldana.dev/"
-      },
-      {
-        "type": "github",
-        "URL": "https://github.com/danieljesussp"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://linkedin.com/in/daniel-s-p"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/danieljsaldana"
-      }
-    ],
     "recommendations": [
       {
         "title": " Daniel Saldaña, exalumno del EU en DevOps de UNIR: \"Lo que se veía antes como futuro ya es el presente\"",
@@ -50,8 +32,13 @@
             "surnames": "Unir",
             "title": "Author"
           }
-        ],
-        "summary": ""
+        ]
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "http://danieljsaldana.dev/"
       }
     ]
   },
@@ -61,8 +48,8 @@
         "organization": {
           "name": "Softtek",
           "image": {
-            "alt": "Softtek.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/06/be8e6179-7b58-4290-8182-374200afbdbc_softtek.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/06/be8e6179-7b58-4290-8182-374200afbdbc_softtek.jpg",
+            "alt": "Softtek.jpg"
           }
         },
         "roles": [
@@ -115,8 +102,8 @@
         "organization": {
           "name": "Tecdata Engineering",
           "image": {
-            "alt": "1520446132407.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/db5b31a5-7d69-44d3-8d20-2724cf140cef_1520446132407.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/db5b31a5-7d69-44d3-8d20-2724cf140cef_1520446132407.jpeg",
+            "alt": "1520446132407.jpeg"
           }
         },
         "roles": [
@@ -190,8 +177,8 @@
         "organization": {
           "name": "Plexus Tech",
           "image": {
-            "alt": "1656917705493.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/5266f798-ac3b-40d6-92c4-ef3ed32b2cf8_1656917705493.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/5266f798-ac3b-40d6-92c4-ef3ed32b2cf8_1656917705493.jpeg",
+            "alt": "1656917705493.jpeg"
           }
         },
         "roles": [
@@ -273,8 +260,8 @@
         "organization": {
           "name": "Viewnext",
           "image": {
-            "alt": "viewnext.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/7f7188f2-1bcd-42cd-bfc9-1d12a74396d1_viewnext.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/7f7188f2-1bcd-42cd-bfc9-1d12a74396d1_viewnext.png",
+            "alt": "viewnext.png"
           }
         },
         "roles": [
@@ -320,8 +307,8 @@
         "organization": {
           "name": "Profesional Hosting",
           "image": {
-            "alt": "120820_2136_Quierocontr1.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/774ec905-e392-441b-b56b-ca30f1c73d18_120820_2136_quieroco.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/774ec905-e392-441b-b56b-ca30f1c73d18_120820_2136_quieroco.png",
+            "alt": "120820_2136_Quierocontr1.png"
           }
         },
         "roles": [
@@ -392,11 +379,11 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
         "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
         "level": "Native or bilingual proficiency"
       }
     ],
@@ -409,19 +396,13 @@
       },
       {
         "skill": {
-          "name": "Jenkins",
+          "name": "Ansible",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Github Actions",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Helm",
+          "name": "Azure",
           "type": "technology"
         }
       },
@@ -433,85 +414,7 @@
       },
       {
         "skill": {
-          "name": "OpenShift",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Ubuntu",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Istio",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Ansible",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Github",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "ELK",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Prometheus",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Gitflow",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Terraform",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Kubernetes",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Google Cloud",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "GitLab",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "YAML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Maven",
+          "name": "Cypress",
           "type": "technology"
         }
       },
@@ -523,13 +426,97 @@
       },
       {
         "skill": {
-          "name": "Cypress",
+          "name": "ELK",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Azure",
+          "name": "GitLab",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Gitflow",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github Actions",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Helm",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Istio",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jenkins",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Maven",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "OpenShift",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Prometheus",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Terraform",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ubuntu",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "YAML",
           "type": "technology"
         }
       }
@@ -537,51 +524,66 @@
     "studies": [
       {
         "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Microsoft Certified: Dynamics 365 Fundamentals (CRM)",
-        "startDate": "2023-03-01",
+        "degreeAchieved": true,
+        "name": " Microsoft Certified: Azure Solutions Architect Expert",
+        "startDate": "2022-12-01",
         "institution": {
           "name": "Microsoft",
-          "description": "Earners of Dynamics 365 Fundamentals (CRM) demonstrate relevant work experience in an Information Technology (IT) environment. Candidates have a fundamental understanding of the customer engagement capabilities of Dynamics 365.\n",
-          "URL": "https://www.credly.com/badges/44216d31-d4cc-404a-b6bc-e879553ff0dc",
+          "description": "Earning the Azure Solutions Architect Expert certification demonstrates subject matter expertise in designing cloud and hybrid solutions that run on Microsoft Azure, including compute, network, storage, monitoring, and security. Candidates have advanced experience and knowledge across IT operations, including networking, virtualization, identity, security, business continuity, disaster recovery, data platforms, and governance.",
+          "URL": "https://www.credly.com/badges/f099d068-4eb9-46c6-ac86-1b11b063505a",
           "image": {
-            "alt": "dynamics365-fundamentals-crm-600x600.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/06/316eaa0e-33b0-4800-8ba4-81ac02592021_dynamics365-fundamen.png"
-          }
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Microsoft 365 Certified: Fundamentals",
-        "startDate": "2023-02-01",
-        "institution": {
-          "name": "Microsoft",
-          "description": "Earning the Microsoft 365 Fundamentals certification demonstrates an understanding of the options available in Microsoft 365 and the benefits of adopting cloud services, the Software as a Service (SaaS) cloud model, and implementing Microsoft 365 cloud service.",
-          "URL": "https://www.credly.com/badges/9ad170a6-57c0-4b66-97f9-add77a857ac4",
-          "image": {
-            "alt": "s.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/06/99f936a0-7889-451c-97ad-88bc3d3f364b_s.png"
-          }
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Microsoft Certified: Dynamics 365 Fundamentals (ERP)",
-        "startDate": "2023-02-01",
-        "institution": {
-          "name": "Microsoft",
-          "description": "Earners of Dynamics 365 Fundamentals (ERP) demonstrate relevant work experience and exposure to the enterprise resource planning (ERP) capabilities of Dynamics 365. Candidates have a fundamental understanding of how finance and operations apps fit within the overall Microsoft ecosystem.",
-          "URL": "https://www.credly.com/badges/224e404f-e575-457b-9b61-5be010938bd0",
-          "image": {
-            "alt": "dynamics365-fundamentals-erp-600x600.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/06/dc419345-182d-4a30-989b-ada01de22b16_dynamics365-fundamen.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/06/a8a574d5-a7c2-465f-9f34-28ec8d81faaa_azure-solutions-arch.png",
+            "alt": "azure-solutions-architect-expert-600x600.png"
           }
         },
+        "finishDate": "2023-12-01",
         "linkedCompetences": [
           {
             "name": "Azure",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "AWS Certified Cloud Practitioner",
+        "startDate": "2021-08-01",
+        "institution": {
+          "name": "Amazon Web Services Training and Certification",
+          "description": "Earners of this certification have a fundamental understanding of IT services and their uses in the AWS Cloud. They demonstrated cloud fluency and foundational AWS knowledge. Badge owners are able to identify essential AWS services necessary to set up AWS-focused projects.",
+          "URL": "https://www.credly.com/badges/4070db58-f1fd-4a48-a0b4-ef4aa5e36e21",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/0ac0d400-537d-47af-8241-f76276f224e5_image-3.png",
+            "alt": "image-3.png"
+          }
+        },
+        "finishDate": "2024-08-01",
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "AWS Certified Solutions Architect – Associate",
+        "startDate": "2021-09-01",
+        "institution": {
+          "name": "Amazon Web Services Training and Certification",
+          "description": "Earners of this certification have a comprehensive understanding of AWS services and technologies. They demonstrated the ability to build secure and robust solutions using architectural design principles based on customer requirements. Badge owners are able to strategically design well-architected distributed systems that are scalable, resilient, efficient, and fault-tolerant.",
+          "URL": "https://www.credly.com/badges/cb1af97f-cab2-4504-8f1f-b8abb4c6ca0e",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/5ca26048-7b42-4f48-90fd-ca6ab2acf7d0_image-2.png",
+            "alt": "image-2.png"
+          }
+        },
+        "finishDate": "2024-09-01",
+        "linkedCompetences": [
+          {
+            "name": "AWS",
             "type": "technology"
           }
         ]
@@ -596,8 +598,50 @@
           "description": "Earners of this badge have demonstrated basic solution building knowledge using AWS services and have a fundamental understanding of AWS Cloud concepts. Badge earners have acquired hands-on experience with compute, networking, database and security services.",
           "URL": "https://www.credly.com/badges/dc7dfe47-5ce1-47fc-b22d-2891a5c3b3d9",
           "image": {
-            "alt": "image.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/07/d2158fcd-1f3d-483b-984f-2e27773fb4fc_image.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/07/d2158fcd-1f3d-483b-984f-2e27773fb4fc_image.png",
+            "alt": "image.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "AWS Learning: Object Storage",
+        "startDate": "2022-06-01",
+        "institution": {
+          "name": "Amazon Web Services Training and Certification",
+          "description": "Earners of this badge have developed the technical skills and knowledge of AWS storage services with a focus on Amazon Simple Storage Service (S3).",
+          "URL": "https://www.credly.com/badges/b634d8af-48ec-4c0c-85e3-0fb6b48f46ba",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/8afe7886-df6a-4fde-8d55-a274f04d15e9_image.png",
+            "alt": "image.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "AWS Learning: Object Storage",
+        "startDate": "2022-06-01",
+        "institution": {
+          "name": "AWS",
+          "description": "Earners of this badge have developed the technical skills and knowledge of AWS storage services with a focus on Amazon Simple Storage Service (S3).",
+          "URL": "https://www.credly.com/badges/b634d8af-48ec-4c0c-85e3-0fb6b48f46ba",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/06/2989e946-4408-4ef4-876a-f2de17a271b4_image-(1).png",
+            "alt": "image (1).png"
           }
         },
         "linkedCompetences": [
@@ -617,8 +661,8 @@
           "description": "Passing Exam AZ-305: Designing Microsoft Azure Infrastructure Solutions validates the skills and advanced experience and knowledge of IT operations, including networking, virtualization, identity, security, business continuity, disaster recovery, data platforms, and governance. Candidates have experience in Azure administration, Azure development, and DevOps processes.",
           "URL": "https://www.credly.com/badges/8a3ccdbc-3939-4049-87c3-7416dfd32ef2",
           "image": {
-            "alt": "image.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/06/5cca948a-f5dc-4997-8db6-d50637de736c_image.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/06/5cca948a-f5dc-4997-8db6-d50637de736c_image.png",
+            "alt": "image.png"
           }
         },
         "linkedCompetences": [
@@ -638,8 +682,8 @@
           "description": "Passing exam AZ-400: Designing and Implementing Microsoft DevOps Solutions validates the skills and knowledge to combine people, processes, and technologies to deliver valuable products and services that meet end-user needs and business objectives. Candidates optimize practices, improve communications, and create automation to streamline delivery. They design and implement strategies for application code and infrastructure for continuous integration, testing, delivery, monitoring and feedback.",
           "URL": "https://www.credly.com/badges/93d936cb-09f2-4611-ab6a-545ab699faef",
           "image": {
-            "alt": "exam-az400-600x600.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/3a5f19d0-99c5-4195-bf5d-3652ff8e3f2c_exam-az400-600x600.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/3a5f19d0-99c5-4195-bf5d-3652ff8e3f2c_exam-az400-600x600.png",
+            "alt": "exam-az400-600x600.png"
           }
         },
         "linkedCompetences": [
@@ -651,21 +695,22 @@
       },
       {
         "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "AWS Learning: Object Storage",
-        "startDate": "2022-06-01",
+        "degreeAchieved": true,
+        "name": "Associate Cloud Engineer",
+        "startDate": "2021-10-01",
         "institution": {
-          "name": "Amazon Web Services Training and Certification",
-          "description": "Earners of this badge have developed the technical skills and knowledge of AWS storage services with a focus on Amazon Simple Storage Service (S3).",
-          "URL": "https://www.credly.com/badges/b634d8af-48ec-4c0c-85e3-0fb6b48f46ba",
+          "name": " Google Cloud",
+          "description": "Un Associate Cloud Engineer se encarga de implementar aplicaciones, supervisar operaciones y administrar soluciones empresariales. También sabe cómo usar Google Cloud Console y la interfaz de línea de comandos para realizar tareas comunes en la plataforma a fin de mantener una o más soluciones implementadas que aprovechen los servicios administrados por Google o autoadministrados que se encuentran en Google Cloud. ",
+          "URL": "https://www.credential.net/7ab2a600-a1da-4359-9d45-a900024233c7",
           "image": {
-            "alt": "image.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/8afe7886-df6a-4fde-8d55-a274f04d15e9_image.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/868d4d52-0064-4fcf-8db2-b9477a93021c_16590187933301617801.png",
+            "alt": "16590187933301617801540872729153.png"
           }
         },
+        "finishDate": "2023-10-01",
         "linkedCompetences": [
           {
-            "name": "AWS",
+            "name": "Google Cloud",
             "type": "technology"
           }
         ]
@@ -673,23 +718,81 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "AWS Learning: Object Storage",
-        "startDate": "2022-06-01",
+        "name": "Confluent Fundamentals Accreditation",
+        "startDate": "2021-10-01",
         "institution": {
-          "name": "AWS",
-          "description": "Earners of this badge have developed the technical skills and knowledge of AWS storage services with a focus on Amazon Simple Storage Service (S3).",
-          "URL": "https://www.credly.com/badges/b634d8af-48ec-4c0c-85e3-0fb6b48f46ba",
+          "name": "Confluent",
+          "URL": "https://www.credential.net/b92d85bf-b725-4a03-9b98-c7a9147c0b18",
           "image": {
-            "alt": "image (1).png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/06/2989e946-4408-4ef4-876a-f2de17a271b4_image-(1).png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/1d00cfe8-57d8-4845-b38e-7dc7e1be506a_16046926127886111900.png",
+            "alt": "16046926127886111900067104961811.png"
           }
         },
         "linkedCompetences": [
           {
-            "name": "AWS",
+            "name": "Kafka",
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Dynatrace Partner Foundation Certification",
+        "startDate": "2021-08-01",
+        "institution": {
+          "name": "Dynatrace",
+          "description": "Dynatrace Partner Foundation Certification",
+          "URL": "https://www.credly.com/badges/18fbdec5-b709-4a5d-8fcd-e107fe39d239",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/96c1debe-bd07-4735-abb9-4be36111e39d_partner_foundation_b.png",
+            "alt": "partner_foundation_badge.png"
+          }
+        },
+        "finishDate": "2023-08-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Experto Universitario en Cloud Computing. Arquitecturas y Soluciones (AWS y Azure)",
+        "startDate": "2021-04-01",
+        "institution": {
+          "name": "La Unir",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/24/2d63058e-9fc2-49d2-b206-e93cb2beca97_unir-logo-v.jpg",
+            "alt": "unir-logo-v.jpg"
+          }
+        },
+        "finishDate": "2021-07-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Experto Universitario en Devops & Cloud",
+        "startDate": "2020-10-01",
+        "institution": {
+          "name": "La Unir",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/24/2763c842-b7fd-4607-8146-aa4ed1a12632_unir-logo-v.jpg",
+            "alt": "unir-logo-v.jpg"
+          }
+        },
+        "finishDate": "2021-03-01"
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Microsoft 365 Certified: Fundamentals",
+        "startDate": "2023-02-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Earning the Microsoft 365 Fundamentals certification demonstrates an understanding of the options available in Microsoft 365 and the benefits of adopting cloud services, the Software as a Service (SaaS) cloud model, and implementing Microsoft 365 cloud service.",
+          "URL": "https://www.credly.com/badges/9ad170a6-57c0-4b66-97f9-add77a857ac4",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/06/99f936a0-7889-451c-97ad-88bc3d3f364b_s.png",
+            "alt": "s.png"
+          }
+        }
       },
       {
         "studyType": "certification",
@@ -701,8 +804,8 @@
           "description": "Earners of the Azure AI Fundamentals certification have demonstrated foundational knowledge of machine learning (ML) and artificial intelligence (AI) concepts and related Microsoft Azure services.",
           "URL": "https://www.credly.com/badges/b0b84311-ec76-41e6-8482-0de53cbdc4d6?source=linked_in_profile",
           "image": {
-            "alt": "azure-ai-fundamentals-600x600.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/05/aaec1006-2096-4be5-a113-dcebd776b2df_azure-ai-fundamental.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/05/aaec1006-2096-4be5-a113-dcebd776b2df_azure-ai-fundamental.png",
+            "alt": "azure-ai-fundamentals-600x600.png"
           }
         },
         "linkedCompetences": [
@@ -714,18 +817,19 @@
       },
       {
         "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Microsoft Certified: Power Platform Fundamentals",
-        "startDate": "2022-04-01",
+        "degreeAchieved": true,
+        "name": "Microsoft Certified: Azure Administrator Associate",
+        "startDate": "2022-08-01",
         "institution": {
           "name": "Microsoft",
-          "description": "Earners of the Power Platform Fundamentals certification are users who aspire to improve productivity by automating business processes, analyzing data to produce business insights, and acting more effectively by creating simple app experiences.",
-          "URL": "https://www.credly.com/badges/e8a1e70c-34a8-435b-b9c4-1a49de62fa40",
+          "description": "Earning Azure Administrator Associate certification validates the skills and knowledge to implement, manage, and monitor an organization’s Microsoft Azure environment. Candidates have a deep understanding of each implementing, managing, and monitoring identity, governance, storage, compute, and virtual networks in a cloud environment, plus provision, size, monitor, and adjust resources, when needed.",
+          "URL": "https://www.credly.com/badges/934f07ee-6aaa-47dd-aaa1-95522a7f11ec",
           "image": {
-            "alt": "CERT-Fundamentals-Power-Platform.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/f4db5192-7464-4425-91e3-bc3f22480b05_cert-fundamentals-po.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/d7f68252-057e-4f49-99a6-daf7dcce1975_azure-administrator-.png",
+            "alt": "azure-administrator-associate-600x600.png"
           }
         },
+        "finishDate": "2023-08-01",
         "linkedCompetences": [
           {
             "name": "Azure",
@@ -743,8 +847,190 @@
           "description": "Earners of the Azure Data Fundamentals certification have demonstrated foundational knowledge of core data concepts and how they are implemented using Microsoft Azure data services.",
           "URL": "https://www.credly.com/badges/7382e0e7-1bcb-4995-8031-7b5eb5dce1b3",
           "image": {
-            "alt": "azure-data-fundamentals-600x600.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/32024a63-cef7-4eae-b6b1-512c9c73e4ad_azure-data-fundament.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/32024a63-cef7-4eae-b6b1-512c9c73e4ad_azure-data-fundament.png",
+            "alt": "azure-data-fundamentals-600x600.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Microsoft Certified: Azure Fundamentals",
+        "startDate": "2021-09-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Earners of the Azure Fundamentals certification have demonstrated foundational level knowledge of cloud services and how those services are provided with Microsoft Azure.",
+          "URL": "https://www.credly.com/badges/93cbe9df-0c1d-40e2-93a8-25edfc31242d",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/a5270ebe-7c8f-4cbb-9690-2687d49c89fc_image.png",
+            "alt": "image.png"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Microsoft Certified: Azure Network Engineer Associate",
+        "startDate": "2023-04-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Earning Azure Network Engineer Associate validates skills and subject matter expertise in planning, implementing, and maintaining Azure networking solutions, including hybrid networking, connectivity, routing, security, and private access to Azure services. Professionals in this role deploy networking solutions using Azure Portal and other methods, including PowerShell, Azure Command-Line Interface (CLI), and Azure Resource Manager templates (ARM templates).",
+          "URL": "https://www.credly.com/badges/27d26914-5bf5-4b00-914d-2063240481ed",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/24/bb4e0782-034f-4b13-a71f-e2f7a5c99fd5_microsoft-certified-.png",
+            "alt": "Microsoft Certified- Azure Network Engineer Associate.png"
+          }
+        },
+        "finishDate": "2024-04-01",
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Microsoft Certified: Azure Security Engineer Associate",
+        "startDate": "2023-02-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Earning Azure Security Engineer Associate certification validates the skills and knowledge to implement security controls and threat protection, manage identity and access, and protect data, applications, and networks in cloud and hybrid environments as part of end-to-end infrastructure.\n",
+          "URL": "https://www.credly.com/badges/deb042a6-4157-4b21-a8a2-4e8d70e1e788",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/06/f686965b-44a6-4c3f-9dec-bf186f7b756a_azure-security-engin.png",
+            "alt": "azure-security-engineer-associate600x600.png"
+          }
+        },
+        "finishDate": "2024-02-01",
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Microsoft Certified: Cybersecurity Architect Expert",
+        "startDate": "2023-04-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Earning Cybersecurity Architect Expert validates subject matter expertise in designing and evolving the cybersecurity strategy to protect an organization’s mission and business processes across all aspects of the enterprise architecture.",
+          "URL": "https://www.credly.com/badges/1c2bfadf-23e9-4472-a76e-83844cddf5e3",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/24/e5d7a8b3-059b-440b-ac64-0e46bc0b26d6_image-2.png",
+            "alt": "image-2.png"
+          }
+        },
+        "finishDate": "2024-03-01",
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Microsoft Certified: DevOps Engineer Expert",
+        "startDate": "2022-08-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Earning the DevOps Engineer Expert certification demonstrates the ability to combine people, process, and technologies to continuously deliver valuable products and services that meet end user needs and business objectives. DevOps professionals streamline delivery by optimizing practices, improving communications and collaboration, and creating automation.",
+          "URL": "https://www.credly.com/badges/53cafd70-78b5-47f0-ba79-cda141af4502",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/e089c420-77c0-48ec-a960-07a67c065b65_cert-expert-devops-e.png",
+            "alt": "CERT-Expert-DevOps-Engineer-600x600.png"
+          }
+        },
+        "finishDate": "2023-08-01",
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Microsoft Certified: Dynamics 365 Fundamentals (CRM)",
+        "startDate": "2023-03-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Earners of Dynamics 365 Fundamentals (CRM) demonstrate relevant work experience in an Information Technology (IT) environment. Candidates have a fundamental understanding of the customer engagement capabilities of Dynamics 365.\n",
+          "URL": "https://www.credly.com/badges/44216d31-d4cc-404a-b6bc-e879553ff0dc",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/06/316eaa0e-33b0-4800-8ba4-81ac02592021_dynamics365-fundamen.png",
+            "alt": "dynamics365-fundamentals-crm-600x600.png"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Microsoft Certified: Dynamics 365 Fundamentals (ERP)",
+        "startDate": "2023-02-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Earners of Dynamics 365 Fundamentals (ERP) demonstrate relevant work experience and exposure to the enterprise resource planning (ERP) capabilities of Dynamics 365. Candidates have a fundamental understanding of how finance and operations apps fit within the overall Microsoft ecosystem.",
+          "URL": "https://www.credly.com/badges/224e404f-e575-457b-9b61-5be010938bd0",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/06/dc419345-182d-4a30-989b-ada01de22b16_dynamics365-fundamen.png",
+            "alt": "dynamics365-fundamentals-erp-600x600.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Microsoft Certified: Information Protection Administrator Associate",
+        "startDate": "2023-03-01",
+        "institution": {
+          "name": "Azure",
+          "description": "Earning the Information Protection Administrator Associate certification validates the skills and knowledge to plan and implement controls that meet organizational compliance needs. Candidates are responsible for translating requirements and compliance controls into technical implementation. They are responsible for creating policies and rules for content classification, data loss prevention, governance, and protection.",
+          "URL": "https://www.credly.com/badges/0d84a1b7-e11b-4378-a7c3-1d4cf777a21b",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/21/74233e76-e5d9-4891-ba0f-54087ae0366a_sc-400.png",
+            "alt": "sc-400.png"
+          }
+        },
+        "finishDate": "2024-03-01",
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Microsoft Certified: Power Platform Fundamentals",
+        "startDate": "2022-04-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Earners of the Power Platform Fundamentals certification are users who aspire to improve productivity by automating business processes, analyzing data to produce business insights, and acting more effectively by creating simple app experiences.",
+          "URL": "https://www.credly.com/badges/e8a1e70c-34a8-435b-b9c4-1a49de62fa40",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/f4db5192-7464-4425-91e3-bc3f22480b05_cert-fundamentals-po.png",
+            "alt": "CERT-Fundamentals-Power-Platform.png"
           }
         },
         "linkedCompetences": [
@@ -764,154 +1050,8 @@
           "description": "Earners of the Security, Compliance, and Identity Fundamentals demonstrate a functional understanding of security, compliance, and identity (SCI) across cloud-based and related Microsoft services.",
           "URL": "https://www.credly.com/badges/659ab939-293b-440f-9b1b-69520a68a88f",
           "image": {
-            "alt": "security-compliance-and-identity-fundamentals-600x600.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/dd4d4d9b-7b69-4e2e-b574-32a2ca7a8af8_security-compliance-.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Azure",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Confluent Fundamentals Accreditation",
-        "startDate": "2021-10-01",
-        "institution": {
-          "name": "Confluent",
-          "description": "",
-          "URL": "https://www.credential.net/b92d85bf-b725-4a03-9b98-c7a9147c0b18",
-          "image": {
-            "alt": "16046926127886111900067104961811.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/1d00cfe8-57d8-4845-b38e-7dc7e1be506a_16046926127886111900.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Kafka",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Microsoft Certified: Azure Fundamentals",
-        "startDate": "2021-09-01",
-        "institution": {
-          "name": "Microsoft",
-          "description": "Earners of the Azure Fundamentals certification have demonstrated foundational level knowledge of cloud services and how those services are provided with Microsoft Azure.",
-          "URL": "https://www.credly.com/badges/93cbe9df-0c1d-40e2-93a8-25edfc31242d",
-          "image": {
-            "alt": "image.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/a5270ebe-7c8f-4cbb-9690-2687d49c89fc_image.png"
-          }
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Microsoft Certified: Information Protection Administrator Associate",
-        "startDate": "2023-03-01",
-        "finishDate": "2024-03-01",
-        "institution": {
-          "name": "Azure",
-          "description": "Earning the Information Protection Administrator Associate certification validates the skills and knowledge to plan and implement controls that meet organizational compliance needs. Candidates are responsible for translating requirements and compliance controls into technical implementation. They are responsible for creating policies and rules for content classification, data loss prevention, governance, and protection.",
-          "URL": "https://www.credly.com/badges/0d84a1b7-e11b-4378-a7c3-1d4cf777a21b",
-          "image": {
-            "alt": "sc-400.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/21/74233e76-e5d9-4891-ba0f-54087ae0366a_sc-400.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Azure",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Microsoft Certified: Azure Security Engineer Associate",
-        "startDate": "2023-02-01",
-        "finishDate": "2024-02-01",
-        "institution": {
-          "name": "Microsoft",
-          "description": "Earning Azure Security Engineer Associate certification validates the skills and knowledge to implement security controls and threat protection, manage identity and access, and protect data, applications, and networks in cloud and hybrid environments as part of end-to-end infrastructure.\n",
-          "URL": "https://www.credly.com/badges/deb042a6-4157-4b21-a8a2-4e8d70e1e788",
-          "image": {
-            "alt": "azure-security-engineer-associate600x600.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/06/f686965b-44a6-4c3f-9dec-bf186f7b756a_azure-security-engin.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Azure",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": " Microsoft Certified: Azure Solutions Architect Expert",
-        "startDate": "2022-12-01",
-        "finishDate": "2023-12-01",
-        "institution": {
-          "name": "Microsoft",
-          "description": "Earning the Azure Solutions Architect Expert certification demonstrates subject matter expertise in designing cloud and hybrid solutions that run on Microsoft Azure, including compute, network, storage, monitoring, and security. Candidates have advanced experience and knowledge across IT operations, including networking, virtualization, identity, security, business continuity, disaster recovery, data platforms, and governance.",
-          "URL": "https://www.credly.com/badges/f099d068-4eb9-46c6-ac86-1b11b063505a",
-          "image": {
-            "alt": "azure-solutions-architect-expert-600x600.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/06/a8a574d5-a7c2-465f-9f34-28ec8d81faaa_azure-solutions-arch.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Azure",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Microsoft Certified: Azure Administrator Associate",
-        "startDate": "2022-08-01",
-        "finishDate": "2023-08-01",
-        "institution": {
-          "name": "Microsoft",
-          "description": "Earning Azure Administrator Associate certification validates the skills and knowledge to implement, manage, and monitor an organization’s Microsoft Azure environment. Candidates have a deep understanding of each implementing, managing, and monitoring identity, governance, storage, compute, and virtual networks in a cloud environment, plus provision, size, monitor, and adjust resources, when needed.",
-          "URL": "https://www.credly.com/badges/934f07ee-6aaa-47dd-aaa1-95522a7f11ec",
-          "image": {
-            "alt": "azure-administrator-associate-600x600.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/d7f68252-057e-4f49-99a6-daf7dcce1975_azure-administrator-.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Azure",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Microsoft Certified: DevOps Engineer Expert",
-        "startDate": "2022-08-01",
-        "finishDate": "2023-08-01",
-        "institution": {
-          "name": "Microsoft",
-          "description": "Earning the DevOps Engineer Expert certification demonstrates the ability to combine people, process, and technologies to continuously deliver valuable products and services that meet end user needs and business objectives. DevOps professionals streamline delivery by optimizing practices, improving communications and collaboration, and creating automation.",
-          "URL": "https://www.credly.com/badges/53cafd70-78b5-47f0-ba79-cda141af4502",
-          "image": {
-            "alt": "CERT-Expert-DevOps-Engineer-600x600.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/e089c420-77c0-48ec-a960-07a67c065b65_cert-expert-devops-e.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/dd4d4d9b-7b69-4e2e-b574-32a2ca7a8af8_security-compliance-.png",
+            "alt": "security-compliance-and-identity-fundamentals-600x600.png"
           }
         },
         "linkedCompetences": [
@@ -926,16 +1066,16 @@
         "degreeAchieved": true,
         "name": "Oracle Cloud Infrastructure Foundations 2021 Associate",
         "startDate": "2022-06-01",
-        "finishDate": "2023-12-01",
         "institution": {
           "name": "Oracle",
           "description": "The Oracle Cloud Infrastructure (OCI) Foundations certification is intended for individuals looking to demonstrate fundamental knowledge of public cloud services provided by Oracle Cloud Infrastructure. This certification is targeted towards candidates with non-technical backgrounds such as those involved in selling or procuring cloud solutions, as well as those with a technical background who want to validate their foundational-level knowledge around core OCI services. This exam does not require any hands-on technical experience and is not a prerequisite for taking any other OCI certifications.",
           "URL": "https://catalog-education.oracle.com/pls/certview/sharebadge?id=82F0E94E34541E5828584308E88CE4EF27C4EAC6A8AFB80F4A8CA26FC5394F22",
           "image": {
-            "alt": "102_Oracle_Cloud_Infrastructure_Foundations_Associate.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/8026334b-1a92-471b-a303-e6a19200ce72_102_oracle_cloud_inf.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/8026334b-1a92-471b-a303-e6a19200ce72_102_oracle_cloud_inf.png",
+            "alt": "102_Oracle_Cloud_Infrastructure_Foundations_Associate.png"
           }
         },
+        "finishDate": "2023-12-01",
         "linkedCompetences": [
           {
             "name": "Oracle",
@@ -945,114 +1085,43 @@
       },
       {
         "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Associate Cloud Engineer",
-        "startDate": "2021-10-01",
-        "finishDate": "2023-10-01",
+        "degreeAchieved": false,
+        "name": "SC-100: Microsoft Cybersecurity Architect",
+        "startDate": "2023-04-01",
         "institution": {
-          "name": " Google Cloud",
-          "description": "Un Associate Cloud Engineer se encarga de implementar aplicaciones, supervisar operaciones y administrar soluciones empresariales. También sabe cómo usar Google Cloud Console y la interfaz de línea de comandos para realizar tareas comunes en la plataforma a fin de mantener una o más soluciones implementadas que aprovechen los servicios administrados por Google o autoadministrados que se encuentran en Google Cloud. ",
-          "URL": "https://www.credential.net/7ab2a600-a1da-4359-9d45-a900024233c7",
+          "name": "Microsoft",
+          "description": "Passing Exam SC-100: Microsoft Cybersecurity Architect validates the skills and advanced experience and knowledge in a wide range of security engineering areas, including identity and access, platform protection, security operations, securing data, and securing applications. Candidates have experience with hybrid and cloud implementations.",
+          "URL": "https://www.credly.com/badges/0a508fed-e128-4e2b-b4e2-7940e0c07936",
           "image": {
-            "alt": "16590187933301617801540872729153.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/868d4d52-0064-4fcf-8db2-b9477a93021c_16590187933301617801.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/24/ad6ca056-94b5-4b0f-a227-d0395ceb88eb_image.png",
+            "alt": "image.png"
           }
         },
         "linkedCompetences": [
           {
-            "name": "Google Cloud",
+            "name": "Azure",
             "type": "technology"
           }
         ]
-      },
+      }
+    ],
+    "softSkills": [
       {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "AWS Certified Solutions Architect – Associate",
-        "startDate": "2021-09-01",
-        "finishDate": "2024-09-01",
-        "institution": {
-          "name": "Amazon Web Services Training and Certification",
-          "description": "Earners of this certification have a comprehensive understanding of AWS services and technologies. They demonstrated the ability to build secure and robust solutions using architectural design principles based on customer requirements. Badge owners are able to strategically design well-architected distributed systems that are scalable, resilient, efficient, and fault-tolerant.",
-          "URL": "https://www.credly.com/badges/cb1af97f-cab2-4504-8f1f-b8abb4c6ca0e",
-          "image": {
-            "alt": "image-2.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/5ca26048-7b42-4f48-90fd-ca6ab2acf7d0_image-2.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "AWS",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "AWS Certified Cloud Practitioner",
-        "startDate": "2021-08-01",
-        "finishDate": "2024-08-01",
-        "institution": {
-          "name": "Amazon Web Services Training and Certification",
-          "description": "Earners of this certification have a fundamental understanding of IT services and their uses in the AWS Cloud. They demonstrated cloud fluency and foundational AWS knowledge. Badge owners are able to identify essential AWS services necessary to set up AWS-focused projects.",
-          "URL": "https://www.credly.com/badges/4070db58-f1fd-4a48-a0b4-ef4aa5e36e21",
-          "image": {
-            "alt": "image-3.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/0ac0d400-537d-47af-8241-f76276f224e5_image-3.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "AWS",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Dynatrace Partner Foundation Certification",
-        "startDate": "2021-08-01",
-        "finishDate": "2023-08-01",
-        "institution": {
-          "name": "Dynatrace",
-          "description": "Dynatrace Partner Foundation Certification",
-          "URL": "https://www.credly.com/badges/18fbdec5-b709-4a5d-8fcd-e107fe39d239",
-          "image": {
-            "alt": "partner_foundation_badge.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/96c1debe-bd07-4735-abb9-4be36111e39d_partner_foundation_b.png"
-          }
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
         }
       },
       {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Experto Universitario en Cloud Computing. Arquitecturas y Soluciones (AWS y Azure)",
-        "startDate": "2021-04-01",
-        "finishDate": "2021-07-01",
-        "institution": {
-          "name": "La Unir",
-          "description": "",
-          "image": {
-            "alt": "unir-logo-v.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/24/2d63058e-9fc2-49d2-b206-e93cb2beca97_unir-logo-v.jpg"
-          }
+        "skill": {
+          "name": "Autonomía en el aprendizaje",
+          "type": "practice"
         }
       },
       {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Experto Universitario en Devops & Cloud",
-        "startDate": "2020-10-01",
-        "finishDate": "2021-03-01",
-        "institution": {
-          "name": "La Unir",
-          "description": "",
-          "image": {
-            "alt": "unir-logo-v.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/24/2763c842-b7fd-4607-8146-aa4ed1a12632_unir-logo-v.jpg"
-          }
+        "skill": {
+          "name": "Visión estratégica",
+          "type": "practice"
         }
       }
     ]
@@ -1061,8 +1130,25 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://linkedin.com/in/daniel-s-p"
+          "URL": "https://linkedin.com/in/daniel-s-p",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/danieljesussp",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/danieljsaldana",
+          "type": "twitter"
+        }
+      ],
+      "contactMails": [
+        "danieljsaldana@icloud.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "648730146",
+          "countryCode": "+34"
         }
       ]
     },
@@ -1123,5 +1209,14 @@
       ]
     },
     "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Estoy buscando un proyecto de gran envergadura donde pueda crecer y aprender tanto a nivel personal como profesional.\n\nDispongo de un background especializado en arquitectura cloud, software arquitect, DevOps, SRE y Sysadmin. ¿Por qué tantos especialidades? Durante mi recorrido profesional me he dado cuenta de que cuando se desarrolla una solución ”fase de design thinking”, es importante saber si esa solución cumple el modelo de implantación y el modelo de trabajo que dispone actualmente la organización. Es por ello que creo que un perfil que entiende el “como” se hace, con una visión en esta fase temprana, minimiza los puntos de fallo, imprevistos o posibles dependencias, garantizando la calidad del producto y ahorrando costes. \n\nEstos errores que he comentado lo he visto en multitud de proyectos y por eso considero la necesidad de que la organización tiene que entender que necesita y como debe hacerlo. Con visiones tanto técnicas como tácticas. \n\nMi objetivo es buscar una posición como arquitecto cloud o liderando equipos IT para definir hacia donde debemos ir el grupo, ofreciendo planteamientos desde uso de tecnologia a proveedores cloud.  Ofreciendo un plan de transformación digital y las pautas en la transición al mismo. ",
+    "bookmarks": [
+      {
+        "name": " Daniel Saldaña, exalumno del EU en DevOps de UNIR: \"Lo que se veía antes como futuro ya es el presente\"",
+        "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/18/7c4cd8f6-9419-4b45-872a-9467dcd54372_saldana.jpg"
+      }
+    ]
   }
 }
