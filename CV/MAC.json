@@ -1050,7 +1050,13 @@
             "alt": "tempImagejy8IZJ.png"
           }
         },
-        "finishDate": "2026-03-01"
+        "finishDate": "2026-03-01",
+        "linkedCompetences": [
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
       },
       {
         "studyType": "certification",
