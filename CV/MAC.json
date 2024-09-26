@@ -1018,6 +1018,21 @@
       },
       {
         "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Microsoft Certified: Information Protection and Compliance Administrator Associate",
+        "startDate": "2023-03-01",
+        "institution": {
+          "name": "Microsoft",
+          "URL": "https://learn.microsoft.com/es-es/users/danieljsaldana/credentials/566bb57b39824672",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/26/5f546b2c-b7e7-495c-b007-62d13aa6bd8c_tempimagejy8izj.png",
+            "alt": "tempImagejy8IZJ.png"
+          }
+        },
+        "finishDate": "2026-03-01"
+      },
+      {
+        "studyType": "certification",
         "degreeAchieved": false,
         "name": "Microsoft Certified: Power Platform Fundamentals",
         "startDate": "2022-04-01",
