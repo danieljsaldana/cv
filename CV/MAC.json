@@ -1000,6 +1000,27 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Microsoft Certified: Azure Network Engineer Associate",
+        "startDate": "2023-04-01",
+        "institution": {
+          "name": "Microsoft",
+          "URL": "https://learn.microsoft.com/en-us/users/danieljsaldana/credentials/ca50d858332b9b97",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/26/3ddde85e-cc2d-42b1-9259-08582e41d846_tempimage2eddhd.png",
+            "alt": "tempImage2eDdhD.png"
+          }
+        },
+        "finishDate": "2025-04-01",
+        "linkedCompetences": [
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "Microsoft Certified: Azure Security Engineer Associate",
         "startDate": "2023-02-01",
         "institution": {
