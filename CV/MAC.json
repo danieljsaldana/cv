@@ -793,6 +793,27 @@
       },
       {
         "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Microsoft Certified: Azure AI Engineer Associate",
+        "startDate": "2023-09-01",
+        "institution": {
+          "name": "Microsoft",
+          "URL": "https://learn.microsoft.com/es-es/users/danieljsaldana/credentials/1655b468218af0a",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/26/b4cde78e-19ae-478e-abe7-c9047ed87401_tempimage0bxzpl.png",
+            "alt": "tempImage0bXzpl.png"
+          }
+        },
+        "finishDate": "2025-09-01",
+        "linkedCompetences": [
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
         "degreeAchieved": false,
         "name": "Microsoft Certified: Azure AI Fundamentals",
         "startDate": "2022-04-01",
