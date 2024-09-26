@@ -671,6 +671,27 @@
       },
       {
         "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "AWS Certified Solutions Architect – Professional",
+        "startDate": "2023-08-01",
+        "institution": {
+          "name": "Amazon Web Services Training and Certification",
+          "URL": "https://www.credly.com/badges/872b2f1a-a56d-4351-a901-d6ca6904e11f",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/26/c0212241-593f-43bf-8b14-2b9216224081_tempimageacddo6.png",
+            "alt": "tempImageACDdo6.png"
+          }
+        },
+        "finishDate": "2026-08-01",
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
         "degreeAchieved": false,
         "name": "AZ-305: Designing Microsoft Azure Infrastructure Solutions",
         "startDate": "2022-12-01",
