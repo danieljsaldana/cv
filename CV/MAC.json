@@ -629,6 +629,27 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "AWS Certified Developer – Associate",
+        "startDate": "2023-09-01",
+        "institution": {
+          "name": "Amazon Web Services Training and Certification",
+          "URL": "https://www.credly.com/badges/81c7a16d-a054-4528-9c25-e8d6b207393e",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/26/0c3791be-ac12-4c4c-95cc-a6172e6d7356_tempimageximxyw.png",
+            "alt": "tempImageXIMxYw.png"
+          }
+        },
+        "finishDate": "2026-09-01",
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "AWS Certified Solutions Architect – Associate",
         "startDate": "2021-09-01",
         "institution": {
