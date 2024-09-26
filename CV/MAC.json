@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -37,6 +37,18 @@
     ],
     "relevantLinks": [
       {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/daniel-s-p"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/danieljesussp"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/danieljsaldana"
+      },
+      {
         "type": "other",
         "URL": "http://danieljsaldana.dev/"
       }
@@ -44,6 +56,52 @@
   },
   "experience": {
     "jobs": [
+      {
+        "organization": {
+          "name": "Civir",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/26/1399f2f3-304f-4dfa-b4db-e883c6478097_simbolo-civir-azul.png",
+            "alt": "SIMBOLO-Civir-AZUL.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "DevOps Engineer",
+            "startDate": "2023-06-01",
+            "challenges": [
+              {
+                "description": "Comencé como Product Owner coordinando el desarrollo de un producto llamado Landing Zone, una plataforma diseñada para servir como zona de aterrizaje para diversas entidades bancarias en Azure y AWS, facilitando la gestión y despliegue de sus infraestructuras en la nube. En esta etapa, lideré el diseño y la implementación de la arquitectura tecnológica 🛠️. Actualmente, como DevOps y Arquitectura en la misma empresa, me enfoco en desarrollar nuevas funcionalidades para Landing Zone en Azure, utilizando Infraestructura como Código (IaC) 💻 y realizando los diseños de arquitectura necesarios 🏗️. Coordino la resolución de problemas y aseguro una base técnica sólida, actuando como puente entre la visión y la ejecución 🚀."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Ansible",
+                "type": "technology"
+              },
+              {
+                "name": "Azure",
+                "type": "technology"
+              },
+              {
+                "name": "Confluence",
+                "type": "technology"
+              },
+              {
+                "name": "Github Actions",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Terraform",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
       {
         "organization": {
           "name": "Softtek",
@@ -146,11 +204,11 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
+                "name": "JBoss",
                 "type": "technology"
               },
               {
-                "name": "JBoss",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -221,11 +279,11 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
+                "name": "JBoss",
                 "type": "technology"
               },
               {
-                "name": "JBoss",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -380,10 +438,12 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Limited working proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
@@ -1144,12 +1204,6 @@
       ],
       "contactMails": [
         "danieljsaldana@icloud.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "648730146",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
