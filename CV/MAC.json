@@ -432,6 +432,27 @@
           }
         ]
       }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Microsoft - Most Valuable Professionals",
+          "description": "El programa Microsoft Most Valuable Professional (MVP) es un premio otorgado por Microsoft a los líderes más valiosos en las comunidades destacados como reconocimiento a su labor voluntaria en compartir su conocimientos y en proveer respuestas correctas y desinteresadas a preguntas técnicas sobre productos y tecnologías de Microsoft, en foros, blogs, grupos de noticias y comunidades públicas.",
+          "URL": "https://mvp.microsoft.com/es-ES/mvp/profile/8ef6a1c2-c250-4de7-8d53-179e48092ff0",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/26/40e5eaf8-a331-43ee-b8f3-88c17337bcd9_badge.svg",
+            "alt": "Badge.svg"
+          }
+        },
+        "type": "achievement",
+        "publishingDate": "2024-03-01",
+        "relatedCompetences": [
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
