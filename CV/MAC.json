@@ -1060,6 +1060,27 @@
       },
       {
         "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Microsoft Certified: Power Platform Functional Consultant Associate",
+        "startDate": "2023-11-01",
+        "institution": {
+          "name": "Microsoft",
+          "URL": "https://learn.microsoft.com/en-us/users/danieljsaldana/credentials/141bcae1248b0712Mi",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/26/0b4c55e5-0809-4f6b-8ca8-24b78d3cfb0c_tempimagedcl8ar.png",
+            "alt": "tempImageDcL8Ar.png"
+          }
+        },
+        "finishDate": "2025-11-01",
+        "linkedCompetences": [
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
         "degreeAchieved": false,
         "name": "Microsoft Certified: Power Platform Fundamentals",
         "startDate": "2022-04-01",
