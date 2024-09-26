@@ -899,6 +899,27 @@
       },
       {
         "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Microsoft Certified: Azure Cosmos DB Developer Specialty",
+        "startDate": "2023-08-01",
+        "institution": {
+          "name": "Microsoft",
+          "URL": "https://learn.microsoft.com/es-es/users/danieljsaldana/credentials/e9d53a8fc378fb76",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/26/24319741-b597-4880-b090-9116ef1420ba_tempimage7ge8j8.png",
+            "alt": "tempImage7gE8j8.png"
+          }
+        },
+        "finishDate": "2025-08-01",
+        "linkedCompetences": [
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
         "degreeAchieved": false,
         "name": "Microsoft Certified: Azure Data Fundamentals",
         "startDate": "2022-03-01",
