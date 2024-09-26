@@ -899,6 +899,27 @@
       },
       {
         "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Microsoft Certified: Azure Data Scientist Associate",
+        "startDate": "2024-06-01",
+        "institution": {
+          "name": "Microsoft",
+          "URL": "https://learn.microsoft.com/en-us/users/danieljsaldana/credentials/176444fd8da07de1",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/26/52763ef3-e73b-454a-8e83-f093899e2a77_tempimagerpo9jm.png",
+            "alt": "tempImageRpo9jM.png"
+          }
+        },
+        "finishDate": "2025-06-01",
+        "linkedCompetences": [
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
         "degreeAchieved": false,
         "name": "Microsoft Certified: Azure Fundamentals",
         "startDate": "2021-09-01",
