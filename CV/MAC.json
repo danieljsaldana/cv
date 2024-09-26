@@ -471,31 +471,13 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "AWS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Ansible",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Azure",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Bamboo",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Cypress",
+          "name": "Azure DevOps",
           "type": "technology"
         }
       },
@@ -507,97 +489,13 @@
       },
       {
         "skill": {
-          "name": "ELK",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "GitLab",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Gitflow",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Github",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Github Actions",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Google Cloud",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Helm",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Istio",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jenkins",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Kubernetes",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Maven",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "OpenShift",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Prometheus",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Terraform",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Ubuntu",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "YAML",
           "type": "technology"
         }
       }
@@ -1543,6 +1441,28 @@
     }
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Azure",
+        "type": "technology"
+      },
+      {
+        "name": "Azure DevOps",
+        "type": "technology"
+      },
+      {
+        "name": "Docker",
+        "type": "technology"
+      },
+      {
+        "name": "Github Actions",
+        "type": "technology"
+      },
+      {
+        "name": "Kubernetes",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "Estoy buscando un proyecto de gran envergadura donde pueda crecer y aprender tanto a nivel personal como profesional.\n\nDispongo de un background especializado en arquitectura cloud, software arquitect, DevOps, SRE y Sysadmin. ¿Por qué tantos especialidades? Durante mi recorrido profesional me he dado cuenta de que cuando se desarrolla una solución ”fase de design thinking”, es importante saber si esa solución cumple el modelo de implantación y el modelo de trabajo que dispone actualmente la organización. Es por ello que creo que un perfil que entiende el “como” se hace, con una visión en esta fase temprana, minimiza los puntos de fallo, imprevistos o posibles dependencias, garantizando la calidad del producto y ahorrando costes. \n\nEstos errores que he comentado lo he visto en multitud de proyectos y por eso considero la necesidad de que la organización tiene que entender que necesita y como debe hacerlo. Con visiones tanto técnicas como tácticas. \n\nMi objetivo es buscar una posición como arquitecto cloud o liderando equipos IT para definir hacia donde debemos ir el grupo, ofreciendo planteamientos desde uso de tecnologia a proveedores cloud.  Ofreciendo un plan de transformación digital y las pautas en la transición al mismo. ",
     "bookmarks": [
       {
