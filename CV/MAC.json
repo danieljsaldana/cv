@@ -1060,6 +1060,27 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Microsoft Certified: Fabric Analytics Engineer Associate",
+        "startDate": "2024-07-01",
+        "institution": {
+          "name": "Microsoft",
+          "URL": "https://learn.microsoft.com/es-es/users/danieljsaldana/credentials/5bde3c25987abc69",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/26/663c481b-d7ef-48e9-b93f-701e28d5c9c9_tempimage7d8hlg.png",
+            "alt": "tempImage7d8hLg.png"
+          }
+        },
+        "finishDate": "2025-07-01",
+        "linkedCompetences": [
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "Microsoft Certified: Information Protection Administrator Associate",
         "startDate": "2023-03-01",
         "institution": {
