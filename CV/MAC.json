@@ -1145,6 +1145,27 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Microsoft Certified: Windows Server Hybrid Administrator Associate",
+        "startDate": "2024-03-01",
+        "institution": {
+          "name": "Microsoft",
+          "URL": "https://learn.microsoft.com/en-us/users/danieljsaldana/credentials/6066786e26bedfc8",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/26/ab9312cf-ef1d-413b-a965-123991da3267_tempimageudfs7g.png",
+            "alt": "tempImageudfS7G.png"
+          }
+        },
+        "finishDate": "2026-03-01",
+        "linkedCompetences": [
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "Oracle Cloud Infrastructure Foundations 2021 Associate",
         "startDate": "2022-06-01",
         "institution": {
