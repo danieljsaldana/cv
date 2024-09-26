@@ -1187,6 +1187,27 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Microsoft Certified: Power Platform Solution Architect Expert",
+        "startDate": "2023-12-01",
+        "institution": {
+          "name": "Microsoft",
+          "URL": "https://learn.microsoft.com/es-es/users/danieljsaldana/credentials/832ae6ddb479c64",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/26/0afba4ce-48ea-4f7e-9bbc-c08a282a406c_tempimageordg7h.png",
+            "alt": "tempImageoRdG7h.png"
+          }
+        },
+        "finishDate": "2025-12-01",
+        "linkedCompetences": [
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "Microsoft Certified: Security Operations Analyst Associate",
         "startDate": "2023-10-01",
         "institution": {
