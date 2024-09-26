@@ -1023,6 +1023,27 @@
       },
       {
         "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Microsoft Certified: Dynamics 365 Business Central Developer Associate",
+        "startDate": "2024-09-01",
+        "institution": {
+          "name": "Microsoft",
+          "URL": "https://learn.microsoft.com/en-us/users/danieljsaldana/credentials/3390888faa327b9e",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/26/43dcc6e2-f509-4322-a14c-525255b21711_tempimagegbjp6m.png",
+            "alt": "tempImageGBJP6m.png"
+          }
+        },
+        "finishDate": "2025-09-01",
+        "linkedCompetences": [
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
         "degreeAchieved": false,
         "name": "Microsoft Certified: Dynamics 365 Fundamentals (CRM)",
         "startDate": "2023-03-01",
