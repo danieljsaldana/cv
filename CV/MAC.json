@@ -1081,6 +1081,27 @@
       },
       {
         "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Microsoft Certified: Security Operations Analyst Associate",
+        "startDate": "2023-10-01",
+        "institution": {
+          "name": "Microsoft",
+          "URL": "https://learn.microsoft.com/en-us/users/danieljsaldana/credentials/a0f505a7b88ebfa5",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/26/54eb43d1-0c11-4dac-8a14-eabfb41da30b_tempimage8edfze.png",
+            "alt": "tempImage8EDfZe.png"
+          }
+        },
+        "finishDate": "2025-10-01",
+        "linkedCompetences": [
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
         "degreeAchieved": false,
         "name": "Microsoft Certified: Security, Compliance, and Identity Fundamentals",
         "startDate": "2022-01-01",
