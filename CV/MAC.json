@@ -778,6 +778,27 @@
       },
       {
         "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Microsoft 365 Certified: Endpoint Administrator Associate",
+        "startDate": "2024-04-01",
+        "institution": {
+          "name": "Microsoft",
+          "URL": "https://learn.microsoft.com/en-us/users/danieljsaldana/credentials/e7b45975b4446790",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/26/e084bc79-9b75-4ad4-b0e2-93e0d6b28473_tempimagest98wv.png",
+            "alt": "tempImageSt98wv.png"
+          }
+        },
+        "finishDate": "2025-04-01",
+        "linkedCompetences": [
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
         "degreeAchieved": false,
         "name": "Microsoft 365 Certified: Fundamentals",
         "startDate": "2023-02-01",
