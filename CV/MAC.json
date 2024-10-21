@@ -1372,9 +1372,6 @@
           "URL": "https://twitter.com/danieljsaldana",
           "type": "twitter"
         }
-      ],
-      "contactMails": [
-        "danieljsaldana@icloud.com"
       ]
     },
     "preferences": {
@@ -1428,6 +1425,7 @@
       ],
       "preferredRoles": [
         "DevOps & Infrastructure & SRE",
+        "Product Owner",
         "Software Architect",
         "Tech Lead",
         "VP of Engineering"
