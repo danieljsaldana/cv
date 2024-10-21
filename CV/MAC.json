@@ -924,6 +924,26 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Microsoft Certified: Azure Developer Associate",
+        "startDate": "2024-10-01",
+        "institution": {
+          "name": "Microsoft",
+          "URL": "https://learn.microsoft.com/api/credentials/share/es-es/danieljsaldana/F6C06150677B246F?sharingId=MVP_340327",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/10/21/d03baf1a-f3b0-4fe0-ae1a-8fd672cfac10_tempimageuzp42s.png",
+            "alt": "tempImageUzp42S.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Microsoft Certified: Azure Fundamentals",
         "startDate": "2021-09-01",
         "institution": {
