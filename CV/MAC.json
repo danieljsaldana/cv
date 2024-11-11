@@ -433,6 +433,44 @@
         ]
       }
     ],
+    "projects": [
+      {
+        "details": {
+          "name": "Goliat - Dashboard",
+          "description": "[![Goliat Dashboard - Demo en YouTube](https://img.youtube.com/vi/qboa7lv-618/maxresdefault.jpg)](https://www.youtube.com/watch?v=qboa7lv-618&autoplay=1)\n\n<p align=\"center\">\n  <img src=\"https://img.shields.io/github/license/danieljsaldana/goliat-dashboard?style=flat-square\" alt=\"GitHub\" style=\"display: inline-block;\">\n\t<release alt=\"GitHub release\" style=\"display: inline-block;\">\n\t\t<img src=\"https://img.shields.io/github/v/release/danieljsaldana/goliat-dashboard?style=flat-square\" alt=\"GitHub release\" style=\"display: inline-block;\">\n\t\t<img src=\"https://img.shields.io/github/v/release/danieljsaldana/goliat-dashboard?include_prereleases&style=flat-square\" alt=\"GitHub release\" style=\"display: inline-block;\">\n\t</release>\n\t<img src=\"https://img.shields.io/github/downloads/danieljsaldana/goliat-dashboard/total?style=flat-square\" alt=\"GitHub downloads\" style=\"display: inline-block;\">\n</p>\n\n**Goliat Dashboard** es un producto desarrollado completamente con [Astro](https://astro.build/) que presenta un panel interactivo, alimentado por la API de [Terraform Cloud](https://www.terraform.io/cloud). El objetivo principal es ofrecer métricas concisas y una mejor distribución de proyectos y workspaces, proporcionando una visión clara y detallada de los recursos gestionados en tiempo real.\n\n## Características\n\n- **Integración con Terraform Cloud:** El Dashboard muestra métricas actualizadas y distribuciones claras de los proyectos y workspaces, alimentándose en tiempo real de la API de Terraform Cloud.\n- **Otras integraciones:** Se ha añadido soporte para la API de [DigitalOcean](https://www.digitalocean.com/), y se planea integrar [Azure](https://azure.microsoft.com/) y [AWS](https://aws.amazon.com/) en el futuro para ofrecer más información dentro del Dashboard.\n- **Actualización en tiempo real:** Gracias a las integraciones con estas APIs, el Dashboard no requiere configuración adicional ni procesos de \"onboarding\" para los proyectos. Las rutas dinámicas se generan automáticamente y comienzan a mostrar datos con solo conectar las APIs.\n- **Futuras expansiones:** Se planea la integración de [OpenAI](https://openai.com/) para proporcionar al usuario información adicional y más detallada sobre los proyectos en el futuro.\n\n## Estado del Proyecto\n\nEl proyecto **Goliat Dashboard** está actualmente en fase de desarrollo. Próximamente, se incluirán más funcionalidades y mejoras, como nuevas integraciones con servicios de nube y características adicionales basadas en IA.\n\n## Instalación\n\n_Instrucciones de instalación por definir._\n\n## Uso\n\n_Instrucciones de uso por definir._\n\n## Licencia\n\nEste proyecto está licenciado bajo la **GNU Affero General Public License v3**. Puedes encontrar más información sobre la licencia [aquí](https://www.gnu.org/licenses/agpl-3.0.en.html).\n\n## Recursos adicionales\n\nSe incluirán próximamente imágenes y un video demostrativo del Dashboard en acción.",
+          "URL": "http://goliat-dashboard.com"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2024-11-01",
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Astro",
+                "type": "technology"
+              },
+              {
+                "name": "Azure",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Terraform",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "publicArtifacts": [
       {
         "details": {
@@ -1483,6 +1521,11 @@
       }
     ],
     "desiredJobDescription": "Estoy buscando un proyecto de gran envergadura donde pueda crecer y aprender tanto a nivel personal como profesional.\n\nDispongo de un background especializado en arquitectura cloud, software arquitect, DevOps, SRE y Sysadmin. ¿Por qué tantos especialidades? Durante mi recorrido profesional me he dado cuenta de que cuando se desarrolla una solución ”fase de design thinking”, es importante saber si esa solución cumple el modelo de implantación y el modelo de trabajo que dispone actualmente la organización. Es por ello que creo que un perfil que entiende el “como” se hace, con una visión en esta fase temprana, minimiza los puntos de fallo, imprevistos o posibles dependencias, garantizando la calidad del producto y ahorrando costes. \n\nEstos errores que he comentado lo he visto en multitud de proyectos y por eso considero la necesidad de que la organización tiene que entender que necesita y como debe hacerlo. Con visiones tanto técnicas como tácticas. \n\nMi objetivo es buscar una posición como arquitecto cloud o liderando equipos IT para definir hacia donde debemos ir el grupo, ofreciendo planteamientos desde uso de tecnologia a proveedores cloud.  Ofreciendo un plan de transformación digital y las pautas en la transición al mismo. ",
+    "projects": [
+      {
+        "name": "Goliat - Dashboard"
+      }
+    ],
     "bookmarks": [
       {
         "name": " Daniel Saldaña, exalumno del EU en DevOps de UNIR: \"Lo que se veía antes como futuro ya es el presente\"",
