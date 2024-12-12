@@ -514,6 +514,12 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Azure",
           "type": "technology"
         }
@@ -521,12 +527,6 @@
       {
         "skill": {
           "name": "Azure DevOps",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Docker",
           "type": "technology"
         }
       },
@@ -1513,15 +1513,15 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
+        "name": "AWS",
+        "type": "technology"
+      },
+      {
         "name": "Azure",
         "type": "technology"
       },
       {
         "name": "Azure DevOps",
-        "type": "technology"
-      },
-      {
-        "name": "Docker",
         "type": "technology"
       },
       {
