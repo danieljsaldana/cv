@@ -50,7 +50,8 @@
       },
       {
         "type": "other",
-        "URL": "http://danieljsaldana.dev/"
+        "URL": "http://danieljsaldana.dev/",
+        "description": "Blog"
       }
     ]
   },
